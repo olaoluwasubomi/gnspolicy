@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.navcolor{
+    background:#006894;
+}
+body{
+    background:#FBFBFB;
+}
+.decline{
+    border:1px solid #006894;
+    color:#006894;
+}
